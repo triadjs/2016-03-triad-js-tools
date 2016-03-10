@@ -1,0 +1,6 @@
+[submodule "2016-03-triad-js-tools"]
+	path = 2016-03-triad-js-tools
+	url = https://github.com/ronnieoverby/2016-03-triad-js-tools.git
+[submodule "2016-03-triad-js-tools-demo"]
+	path = 2016-03-triad-js-tools-demo
+	url = https://github.com/ronnieoverby/2016-03-triad-js-tools-demo.git
